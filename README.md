@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**pmkuny/pmkuny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Solutions Architect
 
-Here are some ideas to get you started:
+Previous Operations background, mainly focused around Cloud ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on ... a kubernetes sandbox envrionment, 
+- 🌱 I’m currently learning ... Kubernetes, Terraform
+- 👯 I’m looking to collaborate on ... Kubernetes projects
+- 🤔 I’m looking for help with ... Kubernetes
+- 💬 Ask me about ... AWS, Linux, selinux, containers, DevOps Culture
+- 📫 How to reach me: ... AWS Community Slack, Email, 
+
+
