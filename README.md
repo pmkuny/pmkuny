@@ -1,5 +1,11 @@
-- 🔭 I’m currently working on ... Kubernetes, Python Projects with @aidutcher
-- 🌱 I’m currently learning ... Kubernetes, Terraform, Python
-- 💬 Ask me about ... AWS, Linux, selinux, containers, DevOps Culture
-
-
+## Professional Development Timeline
+* Python Scripting
+* Terraform 
+* HashiCorp Certified Terraform Associate
+* HashiCorp Certified Vault Associate
+* HashiCorp Certified Consul Associate
+* Certified Kubernetes Administrator
+* ACG: DevOps Learning Path
+* AWS Certified SysOps Administrator - Associate
+* AWS Certified Developer - Associate
+* AWS Data Analytics Speciality
