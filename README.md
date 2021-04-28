@@ -12,7 +12,7 @@
 ✅ - Complete
 
 * ✅ HashiCorp Certified Terraform Associate (Cert on 04/25)
-* 📑 Prometheus Deep Dive (ACG) 
+* 📖 Prometheus Deep Dive (ACG) 
 * 📕 HashiCorp Certified Vault Associate
 * 📕 HashiCorp Certified Consul Associate 
 * 📕 Certified Kubernetes Administrator
