@@ -1,15 +1,21 @@
-## Professional Development Timeline
+##Things I'm Learning
+
+* Python Scripting
+* Terraform
+
+
+
+## Certifications Roadmap
+
 📖 - Work-in-Progress
 📕 - Not Started
 ✅ - Complete
 
-* 📖 Python Scripting - Ongoing
-* 📖 Terraform - Ongoing
-* ✅ HashiCorp Certified Terraform Associate - (DONE - Cert on 04/25)
-* 📑 Prometheus Deep Dive (ACG) - Ongoing
-* 📕 HashiCorp Certified Vault Associate - Not Yet Started
-* 📕 HashiCorp Certified Consul Associate - Not Yet Started
-* 📕 Certified Kubernetes Administrator - Not Yet Started
-* 📕 AWS Certified SysOps Administrator - Associate - Not Yet Started 
-* 📖 AWS Certified Developer - Associate - Ongoing
-* 📕 AWS Data Analytics Speciality - Not Yet Started
+* ✅ HashiCorp Certified Terraform Associate (Cert on 04/25)
+* 📑 Prometheus Deep Dive (ACG) 
+* 📕 HashiCorp Certified Vault Associate
+* 📕 HashiCorp Certified Consul Associate 
+* 📕 Certified Kubernetes Administrator
+* 📕 AWS Certified SysOps Administrator - Associate
+* 📖 AWS Certified Developer - Associate
+* 📕 AWS Data Analytics Speciality
