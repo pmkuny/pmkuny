@@ -22,9 +22,14 @@
 1. Python Script to get all accounts in an AWS Organization, recursively, including child OUs
 2. Python script to dump all EC2 instances that are considered offline by SSM 
 
+
 ## Technologies to Learn
 * AWS Systems Manager
 * CloudFormation
 * Gitlab Actions
 * Jenkins
 * HashiCorp Vault
+
+## Reading List
+* [Using DNS with your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html)
+* [PrivateLink Documentation](https://docs.aws.amazon.com/vpc/latest/privatelink/endpoint-service.html)
