@@ -35,3 +35,4 @@
 ## Reading List
 * [Using DNS with your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html)
 * [PrivateLink Documentation](https://docs.aws.amazon.com/vpc/latest/privatelink/endpoint-service.html)
+* [AWS Lambda Function Scaling](https://docs.aws.amazon.com/lambda/latest/dg/invocation-scaling.html)
