@@ -21,6 +21,8 @@
 ## Projects and Activities 
 1. Python Script to get all accounts in an AWS Organization, recursively, including child OUs
 2. Python script to dump all EC2 instances that are considered offline by SSM 
+3. Python/Flask
+4. Node.js? (maybe)
 
 
 ## Technologies to Learn
