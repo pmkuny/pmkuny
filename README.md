@@ -7,6 +7,8 @@
 
 * Python Scripting
 * Terraform
+* CloudFormation
+* AWS CDK
 
 ## Certifications, Professional Courses Roadmap
 
