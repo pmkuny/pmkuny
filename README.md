@@ -22,8 +22,11 @@
 * 📕 HashiCorp Certified Consul Associate 
 * 📕 Certified Kubernetes Administrator
 * 📖 AWS Certified SysOps Administrator - Associate
-* 📖 AWS Certified Developer - Associate
+* ✅ AWS Certified Developer - Associate (Cert on 06/01)
 * 📕 AWS Data Analytics Speciality
+* 📕 Red Hat Certified System Administrator
+* 📕 Red Hat Certified Engineer
+* 📕 Red Hat Certified Specialist in Advanced Automation - Ansible Best Practices
 
 ## Projects and Activities 
 1. Python Script to get all accounts in an AWS Organization, recursively, including child OUs
