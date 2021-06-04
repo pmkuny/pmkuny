@@ -5,7 +5,8 @@
 
 ## Things I'm Learning
 
-* Python Scripting
+* Go
+* Python 
 * Terraform
 * CloudFormation
 * AWS CDK
