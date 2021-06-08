@@ -28,7 +28,7 @@
 * 📕 Red Hat Certified System Administrator
 * 📕 Red Hat Certified Engineer
 * 📕 Red Hat Certified Specialist in Advanced Automation - Ansible Best Practices
-* 📖  LPI DevOps Tools Engineer Certification
+* 📕  LPI DevOps Tools Engineer Certification
 
 ## Projects and Activities 
 1. Python Script to get all accounts in an AWS Organization, recursively, including child OUs
