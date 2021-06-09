@@ -5,7 +5,6 @@
 
 ## Things I'm Learning
 
-* Go
 * Python 
 * Terraform
 * CloudFormation
@@ -22,7 +21,7 @@
 * 📕 HashiCorp Certified Vault Associate
 * 📕 HashiCorp Certified Consul Associate 
 * 📕 Certified Kubernetes Administrator
-* 📕 AWS Certified SysOps Administrator - Associate
+* 📖 AWS Certified SysOps Administrator - Associate
 * ✅ AWS Certified Developer - Associate (Cert on 06/02)
 * 📕 AWS Data Analytics Speciality
 * 📕 Red Hat Certified System Administrator
@@ -32,10 +31,8 @@
 
 ## Projects and Activities 
 1. Python Script to get all accounts in an AWS Organization, recursively, including child OUs
-2. Python script to dump all EC2 instances that are considered offline by SSM 
-3. Python script, custom version of scheduling instances. Turn off tagged instances outside of business hours
-5. Python/Flask
-6. Node.js? (maybe)
+2. Python script, custom version of scheduling instances. Turn off tagged instances outside of business hours
+3. Running all AWS resources through Terraform (this is my aws-env repository)
 
 
 ## Technologies to Learn
@@ -46,7 +43,4 @@
 * HashiCorp Vault
 * Prometheus
 
-
-## Ideas to Play Around With
-* Blockchain
 
