@@ -9,7 +9,7 @@
 * 📕 HashiCorp Certified Vault Associate
 * 📕 HashiCorp Certified Consul Associate 
 * 📖 Certified Kubernetes Administrator
-* 📖 AWS Certified SysOps Administrator - Associate
+* 📕 AWS Certified SysOps Administrator - Associate
 * ✅ AWS Certified Developer - Associate (Cert on 06/02)
 * 📖 AWS DevOps Professional
 * 📕 AWS Data Analytics Speciality
