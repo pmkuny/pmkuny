@@ -4,13 +4,13 @@
 📕 - Not Started
 ✅ - Complete
 
-* ✅ HashiCorp Certified Terraform Associate (Cert on 04/25)
+* ✅ HashiCorp Certified Terraform Associate (Cert on 04/25/21)
 * 📖 Prometheus Deep Dive (ACG) 
 * 📕 HashiCorp Certified Vault Associate
 * 📕 HashiCorp Certified Consul Associate 
 * 📖 Certified Kubernetes Administrator
 * 📕 AWS Certified SysOps Administrator - Associate
-* ✅ AWS Certified Developer - Associate (Cert on 06/02)
+* ✅ AWS Certified Developer - Associate (Cert on 06/02/21)
 * 📖 AWS DevOps Professional
 * 📕 AWS Data Analytics Speciality
 * 📕 Red Hat Certified System Administrator
