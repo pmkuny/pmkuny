@@ -1,20 +1,10 @@
+## Current Projects
+
+* Full CDK IaC Deployment of EKS
+* CDK8s CodePipeline (written in CDK) for continuous CDK8s synthesis
+ 
+https://github.com/pmkuny/aws-env/tree/main/development/infra/cdk
+
 ## Certifications, Professional Courses Roadmap
 
-📖 - Work-in-Progress
-📕 - Not Started
-✅ - Complete
-
-* ✅ HashiCorp Certified Terraform Associate (Cert on 04/25/21)
-* 📖 Prometheus Deep Dive (ACG) 
-* 📕 HashiCorp Certified Vault Associate
-* 📕 HashiCorp Certified Consul Associate 
-* 📖 Certified Kubernetes Administrator
-* 📕 AWS Certified SysOps Administrator - Associate
-* ✅ AWS Certified Developer - Associate (Cert on 06/02/21)
-* 📖 AWS DevOps Professional
-* 📕 AWS Data Analytics Speciality
-* 📕 Red Hat Certified System Administrator
-* 📕 Red Hat Certified Engineer
-* 📕 Red Hat Certified Specialist in Advanced Automation - Ansible Best Practices
-* 📕 LPI DevOps Tools Engineer Certification
-
+Working on AWS DevOps Professional certification
