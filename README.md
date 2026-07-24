@@ -1,8 +1,6 @@
-## Welcome
-
 System Architect, 10 years in, passionate for all things *Platform*, *Automation*, *Cloud* and *Infrastructure*
 
-<div align=center>
+<div align=left>
   
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,linux,kubernetes,py,github,gitlab)](https://skillicons.dev)
@@ -13,7 +11,9 @@ System Architect, 10 years in, passionate for all things *Platform*, *Automation
 ### Studying:
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,rust)](https://skillicons.dev)
 
-## Connect
+---
+
+### Connect
 
   <a href="https://www.linkedin.com/in/patrick-kuny/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
