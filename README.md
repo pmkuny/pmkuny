@@ -12,7 +12,7 @@ System Architect, 10 years in, passionate for all things *Platform*, *Automation
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,rust)](https://skillicons.dev)
 
 Things I use for fun:
-- Kubernetes
+- Homelab
   - Kubernetes
     - Flux for GitOps
     - Runs DNS, Personal Website, Media Server, other useful self-hosted apps
