@@ -13,7 +13,9 @@ System Architect, 10 years in, passionate for all things *Platform*, *Automation
 
 Things I use for fun:
 - Nix/Nix-Darwin for device configuration.
-- Homelab
+- [Zed](https://github.com/zed-industries/zed) / NeoVIM as my IDE
+- [Jujutsu](https://github.com/jj-vcs/jj) for source control
+- Homelab 
   - Kubernetes
     - Flux for GitOps
     - Runs DNS, Personal Website, Media Server, other useful self-hosted apps
