@@ -14,6 +14,7 @@ System Architect, 10 years in, passionate for all things *Platform*, *Automation
 ### Development Discipline / AI
 - Personal Projects: Gemini / Anthropic Platform - LLMs as a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), myself actually creating and writing the code.
 - Work Projects: Kiro / Anthropic Platforms
+- Agentic Loops for documentation creation and review (I have created several iterations of review agents, ask me about it!)
 
 Things I use for fun:
 - Nix/Nix-Darwin for device configuration.
