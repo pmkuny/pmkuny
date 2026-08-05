@@ -11,6 +11,10 @@ System Architect, 10 years in, passionate for all things *Platform*, *Automation
 ### Studying:
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,rust)](https://skillicons.dev)
 
+### Development Discipline / AI
+- Personal Projects: Gemini / Anthropic Platform - LLMs as a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging), myself actually creating and writing the code.
+- Work Projects: Kiro / Anthropic Platforms
+
 Things I use for fun:
 - Nix/Nix-Darwin for device configuration.
 - [Zed](https://github.com/zed-industries/zed) / NeoVIM as my IDE
