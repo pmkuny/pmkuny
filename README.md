@@ -29,11 +29,7 @@ Things I use for fun:
     - Buildpacks / Kpack for artifact builds (Website is built into OCI image for deployment)
     - Cloudflare Tunnels
     - Bitwarden Secrets Manager for external secret management
-
-- Monitoring Lab and Network
-  - WIP: Loki / Grafana / Tempo / Prometheus
-  - WIP: Alloy for Collection
-  - WIP: Grafana Dashbaords
+    - Observability and Monitoring: Grafana Stack: Loki, Alloy, Tempo, Prometheus
 
 ---
 
