@@ -15,7 +15,6 @@ System Architect, 10 years in, passionate for all things *Platform*, *Automation
 - Anthropic
 - Kiro
 - ChatGPT
-- Multi-agent loops via OpenHarness
 
 Things I use for fun:
 - Nix/Nix-Darwin for device configuration.
